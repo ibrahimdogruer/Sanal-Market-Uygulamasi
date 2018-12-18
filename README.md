@@ -1,2 +1,2 @@
 # Sanal-Market-Uygulamasi
-Bu projede Binary Search Tree, Heap, Hash veri yapıları kullanıldı ve c#'ta geliştirildi.
+Binary Search Tree, Heap, Hash data structures were used in this project. Developed in c#.
